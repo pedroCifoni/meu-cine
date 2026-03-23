@@ -47,3 +47,10 @@
     border-bottom-right-radius: 8px;
 
 }
+
+.lista-filmes a:hover{
+    background-color: #154388;
+    transform: scale(1.03);
+    transition: 0.3s;
+
+}
