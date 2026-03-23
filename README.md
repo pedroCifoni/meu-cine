@@ -28,14 +28,14 @@ Aplicação web desenvolvida em React que consome a API do The Movie Database (T
 
 Neste projeto, foram praticados conceitos importantes como:
 
-Consumo de API REST utilizando Axios
-Manipulação de estado com React Hooks (useState, useEffect)
-Persistência de dados no navegador com LocalStorage
-Tratamento de erros e feedback visual para o usuário
-Organização de componentes em React
+- Consumo de API REST utilizando Axios,
+- Manipulação de estado com React Hooks (useState, useEffect)
+- Persistência de dados no navegador com LocalStorage
+- Tratamento de erros e feedback visual para o usuário
+- Organização de componentes em React
 
 📎 Observações
-Este projeto foi desenvolvido com fins de estudo, com foco em requisições HTTP, consumo de APIs externas e boas práticas no React.
+- Este projeto foi desenvolvido com fins de estudo, com foco em requisições HTTP, consumo de APIs externas e boas práticas no React.
 
 ## ▶️ Como rodar o projeto
 
