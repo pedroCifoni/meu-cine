@@ -41,7 +41,7 @@ Neste projeto, foram praticados conceitos importantes como:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/meu-cine.git
+git clone https://github.com/pedroCifoni/meu-cine.git
 
 # Acesse a pasta do projeto
 cd meu-cine
